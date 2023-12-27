@@ -1,4 +1,4 @@
-# UNP-Project-with-power-Bi-HR-attrition completed this project 
+# UNP-Project-with-Power-Bi-HR-attrition completed this project 
 as part of my Bi With Power Bi internship with United Network Of Professionals.
 Key Highlights:
 Contributed to the development of intricate KPI'S and Dynamic, interactive Power Bi Interfaces.
