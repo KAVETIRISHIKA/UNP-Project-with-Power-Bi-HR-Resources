@@ -5,4 +5,4 @@ Collaborated with stakeholders to understand their requirements them into effect
 Ardently involved in creating data model implemented data transformation and calculations using DSX for accurate analysis and reporting.
 
 PBIX FILE :https://drive.google.com/file/d/1I0L_I-QyZnosQgm64H8kPJXgOJuAmILp/view?usp=drivesdk
-LINK:https://drive.google.com/file/d/1kNyvHJtjWK2kN2pfVlJVQeApXNn4sANi/view?usp=drivesdk
+LINK:https://drive.google.com/file/d/1kNyvHJtjWK2kN2pfVlJVQeApXNn4sANi/view?usp=drivesdk (canvas prints)
